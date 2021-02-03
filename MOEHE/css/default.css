@@ -1,0 +1,26 @@
+.fieldset-container {
+    border: 2px solid gray;
+    padding: 6px;
+}
+
+.fieldset-container legend {
+    width: auto;
+    padding: 0 3px 0 3px;
+}
+
+.loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    text-align: center;
+    background: rgba(128, 128, 128, 0.2);
+    z-index: 2000;
+}
+
+.loading i {
+    margin-top: 20%;
+    font-size: 75px;
+    height: 75px;
+    width: 75px;
+}

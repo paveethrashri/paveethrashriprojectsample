@@ -1,0 +1,15 @@
+.glyphicon-chevron-left:before {
+    content: "\e080"
+}
+
+.glyphicon-chevron-right:before {
+    content: "\e079"
+}
+
+.Category-text {
+    border-right: 6px solid #901838;
+    border-left: none;
+    padding-right: 10px;
+    background: #ececec;
+    padding: 10px;
+}
